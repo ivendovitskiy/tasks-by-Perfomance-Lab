@@ -1,0 +1,5 @@
+﻿  task1.cpp
+C:\Users\Иван\Desktop\tasks-by-Perfomance-Lab\task1\task1\task1.cpp(48,35): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Иван\Desktop\tasks-by-Perfomance-Lab\task1\task1\task1.cpp(75,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Иван\Desktop\tasks-by-Perfomance-Lab\task1\task1\task1.cpp(578,23): warning C4018: '<': signed/unsigned mismatch
+  task1.vcxproj -> C:\Users\Иван\Desktop\tasks-by-Perfomance-Lab\task1\x64\Debug\task1.exe

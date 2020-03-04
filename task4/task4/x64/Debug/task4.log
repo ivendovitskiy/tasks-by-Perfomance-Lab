@@ -1,0 +1,4 @@
+﻿  task4.cpp
+C:\Users\Иван\Desktop\tasks-by-Perfomance-Lab\task4\task4\task4.cpp(23,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Иван\Desktop\tasks-by-Perfomance-Lab\task4\task4\task4.cpp(24,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  task4.vcxproj -> C:\Users\Иван\Desktop\tasks-by-Perfomance-Lab\task4\x64\Debug\task4.exe
